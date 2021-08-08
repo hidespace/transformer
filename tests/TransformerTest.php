@@ -48,3 +48,23 @@ $res = $transform->transformArray($arr);
 
 echo '<pre>';
 print_r($res);
+/**
+Array
+(
+    [0] => Array
+    (
+        [id] => 1
+        [username] => Tom
+        [mobile] => 18012345678
+        [gender] => m
+    )
+
+    [1] => Array
+    (
+        [id] => 2
+        [username] => Jerry
+        [mobile] => 18811111111
+        [gender] => f
+    )
+)
+ */
